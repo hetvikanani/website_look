@@ -1,0 +1,64 @@
+html,body{
+    height: 100%;
+}
+
+h1,h2,h3,h4,h5{
+    color: #333;
+}
+.drawing{
+   background: url(src/laptop.jpg) center center no-repeat;
+   background-size: cover;
+   height: 90%;
+   width: 100%;
+   align-items: center;
+}
+.drawing h1{
+    color: white;
+    font-weight: bold;
+    max-width: 60rem;  
+    text-align: center;
+    padding-top: 10rem;
+  
+}
+.drawing p{
+    font-size: 1.4rem;
+    font-weight: 200;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    color: white    ;
+}
+.drawing button{
+    text-align: center;
+}
+.feature{
+    padding: 8rem;
+}
+.mobile{
+    background-color: black;
+    padding: 3rem;
+   color: white ;
+}
+.mobile h1{
+    color: whitesmoke;
+}
+.person{
+    background-color: #f0f0f0;
+    padding: 10rem;
+
+}
+
+.doggy{
+    padding-left: 20rem;
+    padding-top: 4rem;
+}
+
+.moment{
+    padding-left: 20 rem;
+}
+.music{
+    padding: 7rem;
+    background-color: #262f36;
+    color: white;
+    font-size: 0.8rem;
+}
